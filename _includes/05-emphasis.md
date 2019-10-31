@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skills
+*Hurrah i am learning to do CSS*
+
+## haha life is tough
+
+- But karna to padega
+- Kyunki Yahi jindagi hai
